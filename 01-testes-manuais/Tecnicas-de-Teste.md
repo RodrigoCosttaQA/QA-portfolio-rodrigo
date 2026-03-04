@@ -7,6 +7,8 @@ Regra considerada para teste:
 - Deve conter exatamente 5 dígitos
 - Não pode estar vazio
 
+  
+
 
 Técnica Aplicada: Particionamento de Equivalência
 
